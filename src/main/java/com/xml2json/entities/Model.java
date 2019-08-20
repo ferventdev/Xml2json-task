@@ -18,7 +18,7 @@ public class Model {
 
 //    @JsonProperty("Make")
     @JacksonXmlProperty(localName = "Make", isAttribute = true)
-    private String producer;
+    private String brand;
 
 //    @JsonProperty("Model")
     @JacksonXmlProperty(localName = "Model", isAttribute = true)
