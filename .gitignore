@@ -1,0 +1,17 @@
+# Idea Files #
+.idea
+*.iml
+
+# Buildtool Files #
+.gradle
+gradle
+
+# Target Files #
+out
+build
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
