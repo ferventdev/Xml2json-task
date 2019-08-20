@@ -24,13 +24,13 @@ dependencies {
     compileOnly "org.projectlombok:lombok:1.+"
 
     // apache commons useful libs
-    compile "org.apache.commons:commons-lang3:3.+"
-    compile "commons-io:commons-io:2.+"
+//    compile "org.apache.commons:commons-lang3:3.+"
+//    compile "commons-io:commons-io:2.+"
 
     // testing
-    testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:5.+"
-    testImplementation "org.junit.jupiter:junit-jupiter-api:5.+"
-    testCompile "org.assertj:assertj-core:3.+"
+//    testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:5.+"
+//    testImplementation "org.junit.jupiter:junit-jupiter-api:5.+"
+//    testCompile "org.assertj:assertj-core:3.+"
 //    testCompile "org.mockito:mockito-core:2.+"
 }
 
