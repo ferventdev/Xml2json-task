@@ -28,6 +28,7 @@ public class WithJacksonOnly {
         System.out.println(json);
     }
 
+
     private static Map<String, Set<String>> getGroupedModels(Catalog catalog) {
         return catalog.getModels().stream()
                       .collect(groupingBy(Model::getBrand,
